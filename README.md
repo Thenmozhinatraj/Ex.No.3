@@ -6,6 +6,7 @@
 
 ### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
 Procedure:
+```
 1.	Define the Scenario and Use Case:
 Scenario:
 The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
@@ -35,11 +36,10 @@ Persona and Context Prompts:
 •	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
 •	The system should convey reliability and ease of use, with minimal training required for operators.
 
+```
 ### Conclusion
 Result: The various types of Prompts are executed successfully with generated the report.
+[Ex_No_3_Prompting_Techniques_Report.pdf](https://github.com/user-attachments/files/21841129/Ex_No_3_Prompting_Techniques_Report.pdf)
 
-
-
-
-# Result: Thus the Prompts were exected succcessfully.
+# Result: Thus the Prompts were executed successfully.
 
