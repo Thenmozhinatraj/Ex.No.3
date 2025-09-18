@@ -154,16 +154,16 @@ Random Forest ~60 KB, 20 ms; 1-D CNN ~80 KB, 25 ms.
 Example 2
 
 Prompt 1
-
 “Identify the main energy-consuming machines in a food-processing plant.”
 Output 1
 Industrial ovens, refrigeration units, high-speed mixers.
 
 Prompt 2 
-
 “What sensor types are best to monitor energy usage of these machines?”
 Output 2
 Smart power meters, current transformers, temperature probes.
+
+
 ### Conclusion
 Result: The various types of Prompts are executed successfully with generated the report.
 
