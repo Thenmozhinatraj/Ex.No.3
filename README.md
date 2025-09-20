@@ -116,7 +116,7 @@ Output:
 
 # Tabular-Format Prompting
 
-Purpose: Organize detailed comparisons or specifications into clear tables.
+Purpose: Organise detailed comparisons or specifications into clear tables.
 
 Example 1
 
@@ -163,7 +163,30 @@ Prompt 2
 Output 2
 Smart power meters, current transformers, temperature probes.
 
+<img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/872a5a58-3d5d-4a01-b94f-deec80a9938e" />
 
+# Best practices for prompting
+The qualities that turn you into an excellent communicator — clarity, precision, context, and structure — are very similar to those you need to write great prompts. Follow the following proven practices to consistently elevate the’ quality and strategic value of your AI interactions.
+
+Know your model: In a conversation, you are better off if you know your counterpart. AI is no different. Understand what your model knows and what it doesn’t. Check its cutoff date (until when the training data was collected), reasoning strengths, and common blind spots. Experiment with different models for different tasks. To facilitate your prompting journey, download our overview of the top-10 popular LLMs for frontend prompting here.
+Be clear and specific: Imagine you’re giving instructions to a personal assistant on their very first day. They’re smart, but they don’t yet know your preferences, so spell things out.
+Ground the model in your enterprise context: Your model likely doesn’t know too much about your company. Attach files and documents that contain information that is relevant for the request.
+💡Governance tip: Before including any sensitive or confidential information in a prompt, review your language model provider’s data retention and usage policies. Understand where your data goes, how it’s stored, and whether it might be used for future model training.
+
+4. Specify the output format: By default, models return unstructured text. If you want a certain structure, say so. For example: “List 5 space tourism companies in JSON. Include: name, founded year, HQ, and unique selling point.”
+
+5. Iterate and test: Prompting is experimental. Try variations, compare, and refine. Small tweaks = big gains.
+
+Example: Start with: “Summarize the meeting.” Then test: “Summarize for the CTO — focus on unresolved decisions and next steps.”
+6. Embrace your editing function: With AI, you are in the role of a curator and editor. Achieving a high quality by just copy-pasting an AI output is a rare thing. Likely, you need to do editing work of some kind, like fact-checking, humanizing the tone, adapting it to your context, etc.
+
+💡Pro tip: You might have heard the saying: “Your job will not be replaced by AI, but by someone who can use AI.” Becoming a pro at editing AI outputs is your first step towards the AI-upgraded role.
+
+7. Systematize prompting: As your prompting matures, create a repeatable process:
+
+Use templates for recurring tasks
+Save and version proven prompts
+Document what works — and why
 ### Conclusion
 Result: The various types of Prompts are executed successfully with generated the report.
 
